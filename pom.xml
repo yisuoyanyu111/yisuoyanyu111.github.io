@@ -4,8 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jd.samples</groupId>
 	<artifactId>hello-spring</artifactId>
-	<name>jae_deploye</name>
-	<packaging>war</packaging>
+	<name>hello-spring</name>
+    <packaging>war</packaging>
+    <version>1.0</version>
 	<properties>
 		<java-version>1.6</java-version>
 		<org.springframework-version>3.1.0.M2</org.springframework-version>
